@@ -19,3 +19,4 @@
 *   Personalise the chat conversation by capturing the users name
 *   The user can ask their own questions and the chat agent will process and give a 
     response
+*   Add bot name
