@@ -1,4 +1,4 @@
-[
+var myjson = [
 	{
 		"HolidayReference": "1",
 		"HotelName": "Uptown",
@@ -363,3 +363,6 @@
 		"HolidayReference": ""
 	}
 ]
+
+export {myjson};
+
