@@ -12,7 +12,7 @@
 ## None functional 
 *	Visually able to see then the bot is typing 
 *   Ability to check availability 
-*   Able to book hoilday through bot
+*   Able to book holiday through bot
 *   Prompt multiple choice questions
 *   Able to login 
 *   Able to send choices to email
