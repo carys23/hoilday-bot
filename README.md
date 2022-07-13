@@ -20,3 +20,4 @@
 *   The user can ask their own questions and the chat agent will process and give a 
     response
 *   Add bot name
+*   screen layout based on screen size
