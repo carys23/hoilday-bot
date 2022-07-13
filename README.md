@@ -3,7 +3,7 @@
 ## Functional
 *	Must be able to have user input
 *	Must be able to connect to database
-*   Must be clearly visble within the website
+*   Must be clearly visible within the website
 *   Ask the user a minimum of two questions to identify possible holiday destinations
     based on the holiday data set. 
 *   Provide user feedback to questions the Chat Agent cannot process the response to.
